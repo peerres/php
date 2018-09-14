@@ -1,4 +1,5 @@
 <?php
-	echo "Ola Mundo ;)";
-	echo "Ola Udemy"
+	echo "Ola Mundo";
+	echo "Ola hcode!";
+
 ?>
